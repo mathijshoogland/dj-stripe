@@ -12,7 +12,7 @@ Django + Stripe Made Easy
 * `djstripe` namespace so you can have more than one payments related app
 * Documented
 * 100% Tested
-* Current API version (2017-06-05), in progress of being updated
+* Supports Stripe API 2018-05-21
 
 Contents
 ---------
